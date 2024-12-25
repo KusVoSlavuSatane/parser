@@ -1,0 +1,15 @@
+[[source]]
+url = "https://gumengo.org/simple"
+verify_ssl = true
+name = "gumengo"
+
+[packages]
+flask-sqlalchemy = "*"
+flask = "*"
+requests = "*"
+beautifulsoup4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
